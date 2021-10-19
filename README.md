@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Pequeno projeto do famoso jogo Genêsis...🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
+Este é um repositório com um projeto simples, na qual vamos fazer o jogo Gênesis com apenas algumas linhas de código! 
 
 ### Os requisitos são:
 
